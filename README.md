@@ -1,1 +1,1 @@
-# gpt-website
+# personal-website
